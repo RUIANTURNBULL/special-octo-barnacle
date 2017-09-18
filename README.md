@@ -1,2 +1,2 @@
 # Word Letter Count
-Counts the number of words and the number of alphabet letters in input files.
+Counts the number of words and alphabet letters in input files.
